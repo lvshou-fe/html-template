@@ -1,6 +1,19 @@
-#dev
+
+# dev
 
 http-server -p 9999
 
-###预览页面 localhost:9999
+```
+wuwanbindeMBP:html-template jerry$ http-server -p 9999
+Starting up http-server, serving ./
+Available on:
+  http://127.0.0.1:9999
+  http://192.168.43.109:9999
+  http://172.18.21.15:9999
+Hit CTRL-C to stop the server
 
+```
+
+
+# 预览页面  
+[http://127.0.0.1:9999](http://127.0.0.1:9999)
